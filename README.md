@@ -2,7 +2,7 @@
 - 🎓 Currently, I am pursuing a Master's in IT at IIT, University of Dhaka, with a strong foundation as a Computer Science & Engineering graduate.
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
