@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Masudur Rabbi Rahat
 <!-- - 🎓 Currently, I am pursuing a Master's in IT at IIT, University of Dhaka, with a strong foundation as a Computer Science & Engineering graduate.-->
-### ![Open to Opportunities](https://img.icons8.com/emoji/48/000000/star-emoji.png) *I am open to new opportunities/contributions*
+#### ![Open to Opportunities](https://img.icons8.com/emoji/48/000000/star-emoji.png) *I am open to new opportunities/contributions*
 
 ## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite&logoColor=white&style=for-the-badge)
