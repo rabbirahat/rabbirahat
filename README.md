@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge)
 
-- 🌱 I’m currently learning Data Analytics, Machine Learning
+- 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on Real Time Projects
 
 
