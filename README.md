@@ -1,5 +1,8 @@
-### Hi there 👋, my name is Masudur Rabbi Rahat
+<h1 align="center"> Hi there 👋, I'm Masudur Rabbi Rahat</h1>
 <!-- - 🎓 Currently, I am pursuing a Master's in IT at IIT, University of Dhaka, with a strong foundation as a Computer Science & Engineering graduate.-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbirahat&label=Profile%20views&color=0e75b6&style=flat" alt="rabbirahat" /> </p>
+
 #### ![Open to Opportunities](https://img.icons8.com/emoji/48/000000/star-emoji.png) *I am open to new opportunities/contributions*
 
 ## 💻 Tech Stack:
@@ -20,10 +23,10 @@
 ![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge)
 
 - 🌱 I’m currently learning Data Analytics
+- 🔭 I’m currently working on **A lot of Projects...**
 - 👯 I’m looking to collaborate on Real Time Projects
-
-
-<!-- - 📫 How to reach me: rabbirahat9@gmail.com -->
+- 💬 Ask me about **Python, Power BI, MySQL, Data Analysis, Data Science...**
+- 📫 How to reach me: rabbirahat9@gmail.com 
 <!--### Look me up! 📫 🌐
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masudur-rabbi-rahat-51a193286/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/masudurrabbi.rahat9) -->
@@ -34,12 +37,13 @@
 <a href="mailto:rabbirahat9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masudur-rabbi-rahat-51a193286/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masudurrabbi.rahat9/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rabbirahat_/)
 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=rabbirahat)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbirahat)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbirahat&show_icons=true&count_private=true) 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbirahat&show_icons=true&locale=en&layout=compact" alt="rabbirahat" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbirahat&show_icons=true&locale=en" alt="rabbirahat" /></p>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabbirahat)  
 
