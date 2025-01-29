@@ -42,7 +42,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=rabbirahat)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbirahat&show_icons=true&locale=en&layout=compact" alt="rabbirahat" /></p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbirahat&show_icons=true&locale=en&layout=compact&langs_count=8" alt="rabbirahat" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbirahat&show_icons=true&locale=en" alt="rabbirahat" /></p>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabbirahat)  
